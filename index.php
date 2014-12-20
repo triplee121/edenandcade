@@ -5,6 +5,6 @@
 	<title>Eden and Cade</title>
 </head>
 <body>
-<?php echo "<h1>This is Eden's first major website project. Hello, how are you?</h1>";	?>
+<?php echo "<h1>This is Eden's first major website project. Hello, how are you doing today?</h1>";	?>
 </body>
 </html>
